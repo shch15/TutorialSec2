@@ -25,3 +25,21 @@ h2{
   #IDselector{
     background-color: #591970;
   }
+ul,ol,li {
+  color: black;
+}
+
+table{
+  border-collapse: collapse;
+}
+table, th, td {
+  border: 1px solid gray;
+}
+th, td {
+  padding: 15px;
+  text-align: center ;
+}
+
+td {
+  background-color: rgb(250,250,250)
+}
